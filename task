@@ -1,1 +1,9 @@
+gateway : 
+add reference => middleware
+logging => middleware => mask > 
+ratelimit => 
+ocelot => 3 gateway  organ - bff - mobile 
 
+
+
+authnetication  =>  identity server 
