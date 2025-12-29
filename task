@@ -7,3 +7,5 @@ ocelot => 3 gateway  organ - bff - mobile
 
 
 authnetication  =>  identity server 
+ip checking ==> add ip to jwt  and check ip in all request
+
